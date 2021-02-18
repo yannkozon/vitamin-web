@@ -47,5 +47,4 @@ export default {
 const Template = (args) =>
   html`<vtmn-button ...=${spread(args)}>Button</vtmn-button>`;
 
-export const Default = Template.bind({});
-Default.args = {};
+export const Overview = Template.bind({});

@@ -57,4 +57,4 @@ export default {
 
 const Template: Story = (args) => <VtmnButton {...args} />;
 
-export const Default = Template.bind({});
+export const Overview = Template.bind({});
