@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/star-fill</title>
+    <g id="icons/vitamix/system/star-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <polygon id="shape" fill="#001018" fill-rule="nonzero" points="12 18.26 4.947 22.208 6.522 14.28 0.587 8.792 8.614 7.84 12 0.5 15.386 7.84 23.413 8.792 17.478 14.28 19.053 22.208"></polygon>
+    </g>
+</svg>

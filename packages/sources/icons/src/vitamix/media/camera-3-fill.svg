@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/media/camera-3-fill</title>
+    <g id="icons/vitamix/media/camera-3-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M1.99998185,6 C1.99998185,5.448 2.455,5 2.992,5 L21.008,5 C21.556,5 22,5.445 22,6 L22,20 C22,20.552 21.545,21 21.008,21 L2.992,21 C2.72767873,20.999473 2.4744523,20.8936906 2.28830068,20.7060377 C2.10214907,20.5183849 1.99840397,20.264317 1.99998185,20 L1.99998185,6 Z M14,18 C16.7614237,18 19,15.7614237 19,13 C19,10.2385763 16.7614237,8 14,8 C11.2385763,8 9,10.2385763 9,13 C9,15.7614237 11.2385763,18 14,18 L14,18 Z M4,7 L4,9 L7,9 L7,7 L4,7 Z M4,2 L10,2 L10,4 L4,4 L4,2 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

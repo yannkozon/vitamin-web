@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/shield-check-fill</title>
+    <g id="icons/vitamix/system/shield-check-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M12,1 L20.217,2.826 C20.674,2.928 21,3.333 21,3.802 L21,13.789 C21,15.795 19.997,17.669 18.328,18.781 L12,23 L5.672,18.781 C4.002,17.668 3,15.795 3,13.79 L3,3.802 C3,3.333 3.326,2.928 3.783,2.826 L12,1 Z M16.452,8.222 L11.502,13.171 L8.674,10.343 L7.26,11.757 L11.503,16 L17.867,9.636 L16.452,8.222 L16.452,8.222 Z" id="shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

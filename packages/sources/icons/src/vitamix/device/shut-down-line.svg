@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/device/shut-down-line</title>
+    <g id="icons/vitamix/device/shut-down-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6.265,3.807 L7.412,5.446 C4.55158488,7.44848649 3.3203349,11.0747982 4.37015217,14.4049349 C5.41996943,17.7350716 8.50830603,19.9996445 11.9999974,19.9996445 C15.491694,19.9996445 18.5800306,17.7350716 19.6298478,14.4049349 C20.6796651,11.0747982 19.4484151,7.44848649 16.588,5.446 L17.735,3.807 C20.4099014,5.67712138 22.0023503,8.73619152 21.9999974,12 C21.9999974,17.523 17.523,22 11.9999974,22 C6.477,22 1.9999974,17.523 1.9999974,12 C1.99764969,8.73619152 3.59009863,5.67712138 6.265,3.807 L6.265,3.807 Z M11,12 L11,2 L13,2 L13,12 L11,12 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

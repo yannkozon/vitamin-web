@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/task/task-fill</title>
+    <g id="icons/vitamix/task/task-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M21,2.992 L21,21.008 C20.9956416,21.5544403 20.5534445,21.9961922 20.007,22 L3.993,22 C3.44497153,22 3.00055189,21.5560282 3,21.008 L3,2.992 C3.00435839,2.44555966 3.44655554,2.00380782 3.993,2 L20.007,2 C20.555,2 21,2.444 21,2.992 L21,2.992 Z M11.293,13.122 L8.818,10.646 L7.404,12.061 L11.293,15.95 L16.95,10.293 L15.536,8.879 L11.293,13.121 L11.293,13.122 Z" id="shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

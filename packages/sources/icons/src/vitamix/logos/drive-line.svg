@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/logos/drive-line</title>
+    <g id="icons/vitamix/logos/drive-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M9.097,6.15 L4.31,14.443 L6.065,17.475 L10.85,9.185 L9.097,6.15 Z M7.797,18.474 L17.365,18.474 L19.116,15.44 L9.55,15.44 L7.798,18.474 L7.797,18.474 Z M19.111,13.44 L14.325,5.15 L10.83,5.15 L15.617,13.44 L19.112,13.44 L19.111,13.44 Z M8.52,3.15 L15.48,3.15 L22,14.444 L18.52,20.474 L5.49,20.474 L2,14.444 L8.52,3.15 Z M12.005,11.186 L10.703,13.44 L13.306,13.44 L12.005,11.186 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/finance/money-dollar-box-line</title>
+    <g id="icons/vitamix/finance/money-dollar-box-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M3,3 L21,3 C21.5522847,3 22,3.44771525 22,4 L22,20 C22,20.5522847 21.5522847,21 21,21 L3,21 C2.44771525,21 2,20.5522847 2,20 L2,4 C2,3.44771525 2.44771525,3 3,3 Z M4,5 L4,19 L20,19 L20,5 L4,5 Z M8.5,14 L14,14 C14.2761424,14 14.5,13.7761424 14.5,13.5 C14.5,13.2238576 14.2761424,13 14,13 L10,13 C8.61928813,13 7.5,11.8807119 7.5,10.5 C7.5,9.11928813 8.61928813,8 10,8 L11,8 L11,6 L13,6 L13,8 L15.5,8 L15.5,10 L10,10 C9.72385763,10 9.5,10.2238576 9.5,10.5 C9.5,10.7761424 9.72385763,11 10,11 L14,11 C15.3807119,11 16.5,12.1192881 16.5,13.5 C16.5,14.8807119 15.3807119,16 14,16 L13,16 L13,18 L11,18 L11,16 L8.5,16 L8.5,14 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

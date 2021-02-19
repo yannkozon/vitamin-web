@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/device/mac-line</title>
+    <g id="icons/vitamix/device/mac-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M14.0000802,18 L14.0000802,20 L16.0000802,21 L16.0000802,22 L8.00008023,22 L7.99608023,21.004 L10.0000802,20 L10.0000802,18 L2.99208023,18 C2.72686892,17.9984163 2.47319519,17.8913333 2.2870716,17.7023953 C2.100948,17.5134573 1.99768378,17.2582052 2.00003944,16.993 L2.00003944,4.007 C2.00003944,3.451 2.45508023,3 2.99208023,3 L21.0080802,3 C21.5560802,3 22.0000802,3.449 22.0000802,4.007 L22.0000802,16.993 C22.0000802,17.549 21.5450802,18 21.0080802,18 L14.0000802,18 L14.0000802,18 Z M4.00008023,5 L4.00008023,14 L20.0000802,14 L20.0000802,5 L4.00008023,5 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

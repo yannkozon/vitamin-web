@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/media/volume-mute-line</title>
+    <g id="icons/vitamix/media/volume-mute-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M10,7.22 L6.603,10 L3,10 L3,14 L6.603,14 L10,16.78 L10,7.22 Z M5.889,16 L2,16 C1.44771525,16 1,15.5522847 1,15 L1,9 C1,8.44771525 1.44771525,8 2,8 L5.889,8 L11.183,3.668 C11.3325193,3.5454198 11.5393109,3.52002955 11.7140433,3.60279751 C11.8887757,3.68556548 12.000129,3.86165595 12,4.055 L12,19.945 C12.000129,20.1383441 11.8887757,20.3144345 11.7140433,20.3972025 C11.5393109,20.4799705 11.3325193,20.4545802 11.183,20.332 L5.89,16 L5.889,16 Z M20.414,12 L23.95,15.536 L22.536,16.95 L19,13.414 L15.464,16.95 L14.05,15.536 L17.586,12 L14.05,8.464 L15.464,7.05 L19,10.586 L22.536,7.05 L23.95,8.464 L20.414,12 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

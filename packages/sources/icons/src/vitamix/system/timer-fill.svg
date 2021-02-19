@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/timer-fill</title>
+    <g id="icons/vitamix/system/timer-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M17.6175861,6.968 L19.0705861,5.515 L20.4845861,6.929 L19.0315861,8.382 C22.0126636,12.1134457 21.5598948,17.5236672 18.0000754,20.7077205 C14.4402561,23.8917739 9.01322449,23.740695 5.63605779,20.3635283 C2.25889109,16.9863616 2.10781219,11.55933 5.29186554,7.99951063 C8.47591889,4.43969124 13.8861404,3.98692249 17.6175861,6.968 Z M10.9995861,9 L10.9995861,15 L12.9995861,15 L12.9995861,9 L10.9995861,9 Z M7.99958608,2 L15.9995861,2 L15.9995861,4 L7.99958608,4 L7.99958608,2 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

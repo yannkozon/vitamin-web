@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/media/music-line</title>
+    <g id="icons/vitamix/media/music-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,13.535 L12,3 L20,3 L20,5 L14,5 L14,17 C13.9995934,18.8103392 12.7833578,20.3947236 11.0346255,20.8629793 C9.28589321,21.331235 7.44066753,20.5666141 6.53567396,18.9987127 C5.63068038,17.4308114 5.89155674,15.4505471 7.17173172,14.1705158 C8.4519067,12.8904845 10.4322002,12.6298304 12,13.535 Z M10,19 C11.1045695,19 12,18.1045695 12,17 C12,15.8954305 11.1045695,15 10,15 C8.8954305,15 8,15.8954305 8,17 C8,18.1045695 8.8954305,19 10,19 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

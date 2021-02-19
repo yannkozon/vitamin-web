@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/map/suitcase-line</title>
+    <g id="icons/vitamix/map/suitcase-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M15,3 C15.552,3 16,3.448 16,4 L16,6 L21,6 C21.552,6 22,6.448 22,7 L22,20 C22,20.552 21.552,21 21,21 L3,21 C2.448,21 2,20.552 2,20 L2,7 C2,6.448 2.448,6 3,6 L8,6 L8,4 C8,3.448 8.448,3 9,3 L15,3 Z M16,8 L8,8 L8,19 L16,19 L16,8 Z M4,8 L4,19 L6,19 L6,8 L4,8 Z M14,5 L10,5 L10,6 L14,6 L14,5 Z M18,8 L18,19 L20,19 L20,8 L18,8 Z" id="shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

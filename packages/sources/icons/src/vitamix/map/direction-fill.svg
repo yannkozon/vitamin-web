@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/map/direction-fill</title>
+    <g id="icons/vitamix/map/direction-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M9,10 C8.44771525,10 8,10.4477153 8,11 L8,15 L10,15 L10,12 L13,12 L13,14.5 L16.5,11 L13,7.5 L13,10 L9,10 Z M12.707,1.393 L22.607,11.293 C22.9973819,11.6834999 22.9973819,12.3165001 22.607,12.707 L12.707,22.607 C12.3165001,22.9973819 11.6834999,22.9973819 11.293,22.607 L1.393,12.707 C1.00261806,12.3165001 1.00261806,11.6834999 1.393,11.293 L11.293,1.393 C11.6834999,1.00261806 12.3165001,1.00261806 12.707,1.393 Z" id="shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

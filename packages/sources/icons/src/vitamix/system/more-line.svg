@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/more-line</title>
+    <g id="icons/vitamix/system/more-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4.5,11 C3.675,11 3,11.675 3,12.5 C3,13.325 3.675,14 4.5,14 C5.325,14 6,13.325 6,12.5 C6,11.675 5.325,11 4.5,11 Z M19.5,11 C18.675,11 18,11.675 18,12.5 C18,13.325 18.675,14 19.5,14 C20.325,14 21,13.325 21,12.5 C21,11.675 20.325,11 19.5,11 Z M12,11 C11.175,11 10.5,11.675 10.5,12.5 C10.5,13.325 11.175,14 12,14 C12.825,14 13.5,13.325 13.5,12.5 C13.5,11.675 12.825,11 12,11 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

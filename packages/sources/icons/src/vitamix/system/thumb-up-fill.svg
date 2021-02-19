@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/thumb-up-fill</title>
+    <g id="icons/vitamix/system/thumb-up-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M2,9 L5,9 L5,21 L2,21 C1.44771525,21 1,20.5522847 1,20 L1,10 C1,9.44771525 1.44771525,9 2,9 Z M7.293,7.707 L13.693,1.307 C13.8688654,1.13062892 14.1477221,1.11058876 14.347,1.26 L15.2,1.9 C15.6844309,2.26366788 15.9025827,2.88301394 15.753,3.47 L14.6,8 L21,8 C22.1045695,8 23,8.8954305 23,10 L23,12.104 C23.0002696,12.3653611 22.949309,12.624241 22.85,12.866 L19.755,20.381 C19.6005883,20.7557119 19.2352801,21.0000001 18.83,21.0000001 L8,21.0000001 C7.44771525,21.0000001 7,20.5522847 7,20 L7,8.414 C7,8.14880519 7.10545063,7.89449273 7.293,7.707 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

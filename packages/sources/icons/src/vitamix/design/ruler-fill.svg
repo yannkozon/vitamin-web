@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/design/ruler-fill</title>
+    <g id="icons/vitamix/design/ruler-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M4.929,13.207 L7.05,15.328 L8.464,13.914 L6.344,11.793 L8.464,9.672 L11.293,12.5 L12.707,11.086 L9.88,8.257 L12,6.136 L14.121,8.257 L15.536,6.843 L13.414,4.722 L16.243,1.893 C16.6334999,1.50261806 17.2665001,1.50261806 17.657,1.893 L22.607,6.843 C22.9973819,7.23349985 22.9973819,7.86650015 22.607,8.257 L7.757,23.107 C7.36650015,23.4973819 6.73349985,23.4973819 6.343,23.107 L1.393,18.157 C1.00261806,17.7665001 1.00261806,17.1334999 1.393,16.743 L4.929,13.207 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

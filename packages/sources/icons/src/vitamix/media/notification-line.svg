@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/media/notification-line</title>
+    <g id="icons/vitamix/media/notification-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M22,19 L2,19 L2,17 L3,17 L3,10.031 C3,5.043 7.03,1 12,1 C16.97,1 21,5.043 21,10.031 L21,17 L22,17 L22,19 Z M5,17 L19,17 L19,10.031 C19,6.148 15.866,3 12,3 C8.134,3 5,6.148 5,10.031 L5,17 Z M9.5,20 L14.5,20 C14.5,21.3807119 13.3807119,22.5 12,22.5 C10.6192881,22.5 9.5,21.3807119 9.5,20 L9.5,20 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

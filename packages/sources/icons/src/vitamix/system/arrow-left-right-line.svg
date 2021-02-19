@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/arrow-left-right-line</title>
+    <g id="icons/vitamix/system/arrow-left-right-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M16.05,12.05 L21,17 L16.05,21.95 L14.636,20.536 L17.172,17.999 L4,18 L4,16 L17.172,16 L14.636,13.464 L16.05,12.05 Z M7.95,2.05 L9.364,3.464 L6.828,6 L20,6 L20,8 L6.828,8 L9.364,10.536 L7.95,11.95 L3,7 L7.95,2.05 Z" id="shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

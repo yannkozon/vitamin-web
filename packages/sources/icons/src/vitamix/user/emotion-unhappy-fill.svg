@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/user&amp;faces/emotion-unhappy-fill</title>
+    <g id="icons/vitamix/user&amp;faces/emotion-unhappy-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,22 C6.477,22 2,17.523 2,12 C2,6.477 6.477,2 12,2 C17.523,2 22,6.477 22,12 C22,17.523 17.523,22 12,22 Z M7,17 L9,17 C9,15.3431458 10.3431458,14 12,14 C13.6568542,14 15,15.3431458 15,17 L17,17 C17,14.2385763 14.7614237,12 12,12 C9.23857625,12 7,14.2385763 7,17 Z M8,11 C8.82842712,11 9.5,10.3284271 9.5,9.5 C9.5,8.67157288 8.82842712,8 8,8 C7.17157288,8 6.5,8.67157288 6.5,9.5 C6.5,10.3284271 7.17157288,11 8,11 Z M16,11 C16.8284271,11 17.5,10.3284271 17.5,9.5 C17.5,8.67157288 16.8284271,8 16,8 C15.1715729,8 14.5,8.67157288 14.5,9.5 C14.5,10.3284271 15.1715729,11 16,11 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

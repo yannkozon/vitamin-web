@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/lock-line</title>
+    <g id="icons/vitamix/system/lock-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6,9 L6,8 C6,4.6862915 8.6862915,2 12,2 C15.3137085,2 18,4.6862915 18,8 L18,9 L20,9 C20.5522847,9 21,9.44771525 21,10 L21,22 C21,22.5522847 20.5522847,23 20,23 L4,23 C3.44771525,23 3,22.5522847 3,22 L3,10 C3,9.44771525 3.44771525,9 4,9 L6,9 Z M19,11 L5,11 L5,21 L19,21 L19,11 Z M11,16.732 C10.216064,16.2793943 9.83386241,15.3566781 10.0681483,14.4823111 C10.3024343,13.6079441 11.0947886,12.9999492 12,12.9999492 C12.9052114,12.9999492 13.6975657,13.6079441 13.9318517,14.4823111 C14.1661376,15.3566781 13.783936,16.2793943 13,16.732 L13,19 L11,19 L11,16.732 L11,16.732 Z M8,9 L16,9 L16,8 C16,5.790861 14.209139,4 12,4 C9.790861,4 8,5.790861 8,8 L8,9 L8,9 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/system/search-fill</title>
+    <g id="icons/vitamix/system/search-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="path" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18.031,16.617 L22.314,20.899 L20.899,22.314 L16.617,18.031 C15.0237382,19.3082211 13.0420011,20.0029052 11,20 C6.032,20 2,15.968 2,11 C2,6.032 6.032,2 11,2 C15.968,2 20,6.032 20,11 C20.0029052,13.0420011 19.3082211,15.0237382 18.031,16.617 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>

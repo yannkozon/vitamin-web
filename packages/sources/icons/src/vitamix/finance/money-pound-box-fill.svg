@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/vitamix/finance/money-pound-box-fill</title>
+    <g id="icons/vitamix/finance/money-pound-box-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M3,3 L21,3 C21.5522847,3 22,3.44771525 22,4 L22,20 C22,20.5522847 21.5522847,21 21,21 L3,21 C2.44771525,21 2,20.5522847 2,20 L2,4 C2,3.44771525 2.44771525,3 3,3 Z M9,13 L9,15 L8,15 L8,17 L16,17 L16,15 L11,15 L11,13 L14,13 L14,11 L11,11 L11,10 C10.9995028,9.33477127 11.4372034,8.74868143 12.0751983,8.56028802 C12.7131931,8.37189461 13.3990561,8.62620752 13.76,9.185 L15.746,8.689 C15.1173234,7.13661225 13.4772157,6.24692716 11.8331184,6.56643671 C10.1890212,6.88594627 9.00150269,8.32514485 9,10 L9,11 L8,11 L8,13 L9,13 Z" id="shape" fill="#001018" fill-rule="nonzero"></path>
+    </g>
+</svg>
